@@ -18,6 +18,30 @@ const Amazing = props => (
         </li>
       ))}
     </ul>
+    <style jsx>{`
+      h1,
+      a {
+        font-family: 'Arial';
+      }
+
+      ul {
+        padding: 0;
+      }
+
+      li {
+        list-style: none;
+        margin: 5px 0;
+      }
+
+      a {
+        text-decoration: none;
+        color: rgb(44, 152, 77);
+      }
+
+      a:hover {
+        opacity: 0.6;
+      }
+    `}</style>
   </Layout>
 );
 

@@ -15,6 +15,18 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
+    "/amazing": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/batman": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/elephants": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
     "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
