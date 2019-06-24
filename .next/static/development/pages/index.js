@@ -24029,7 +24029,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var Index = function Index() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_comps_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Hello Click a link above for you favorite show"));
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_comps_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Hello, Click a link above for you favorite show"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/200.webp?cid=790b76115d10e8ac4f4c54574926e5be&rid=200.webp"
+  }));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
